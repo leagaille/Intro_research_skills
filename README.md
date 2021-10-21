@@ -10,17 +10,17 @@ reproduced in this code, allow to see the congestion level of the differents roa
 
 ## Getting Started
 
-To run the code, the main part and four .cvs files that countains the different data are needed
+To run the code, the main part and four .cvs files that countains the different data are needed.
 
 ### Data
 
 Four data files are necessary to run the code and obtain the different results. The first two, links and nodes  are used to represent graphically the networrk, while the two lasts, flow and occupancy give informations about the different traffic parameters.
 
-###Executing program
+### Executing program
 
 Some problems could occur if the raw data is not formatted as the four .cvs files. 
 
-##Authors
+## Authors
 
 We were a group of students who code this Lab. The names are found below: 
 [Carole Baslé](carole.baslé@epfl.ch)
