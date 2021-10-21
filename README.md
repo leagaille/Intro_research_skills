@@ -22,7 +22,8 @@ Some problems could occur if the raw data is not formatted as the four .cvs file
 
 ## Authors
 
-We were a group of students who code this Lab. The names are found below: 
+We were a group of students who code this Lab. The other co-authors are: 
+
 [Carole Baslé](carole.baslé@epfl.ch)
 [Rayna Fuleihan](rayna.fuleihan@epfl.ch)
 [Maude Bolliger](maude.bolliger@epfl.ch)
