@@ -1,4 +1,4 @@
-# Intro_research_skills
+# Introduction to research skills
 
 
 # Congestion in the streets of Barcelona
