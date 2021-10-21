@@ -1,10 +1,9 @@
 # Intro_research_skills
 
-##not finished yet
 
-#Congestion in the streets of Barcelona
+# Congestion in the streets of Barcelona
 
-##Description
+## Description
 This code comes from an Assigment for the course of Transport Fundamentals of Traffic Operations and Control, which is interested in
 the different level of congestion and traffic in the streets of Barcelona. The first part of the Assignment, i.e the one that is 
 reproduced in this code, allow to see the congestion level of the differents roads 60, 90 and 120 minutes after the begin of the situmaltion. 
